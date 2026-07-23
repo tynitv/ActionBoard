@@ -1,0 +1,5 @@
+name: ActionBoard
+version: '1.0.0'
+main: fr.tynitv.actionboard.ActionBoard
+api-version: '1.20'
+description: Dynamic ActionBar and BossBar Engine for Paper 1.21.x

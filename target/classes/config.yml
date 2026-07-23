@@ -1,0 +1,7 @@
+# ========================================================
+#              ActionBoard Configuration File
+# ========================================================
+
+actionbar:
+  enabled: true
+  text: "<gradient:#00F2FE:#4FACFE><bold>Serveur Paper</bold></gradient> <gray>|</gray> <gray>Joueurs : <green>{online}/{max}</green></gray> <gray>|</gray> <gray>Ping : <yellow>{ping}ms</yellow></gray>"
