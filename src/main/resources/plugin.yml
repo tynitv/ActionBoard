@@ -1,5 +1,14 @@
 name: ActionBoard
-version: '1.0.0'
+version: '1.1.0'
 main: fr.tynitv.actionboard.ActionBoard
 api-version: '1.20'
-description: Dynamic ActionBar and BossBar Engine for Paper 1.21.x
+prefix: ActionBoard
+authors: [TyniTV]
+description: Dynamic ActionBar and BossBar Engine with Timers and Tab Completion for Paper 1.21.x
+
+commands:
+  actionboard:
+    description: Main command for ActionBoard
+    aliases: [ab, bossbar, actionbar]
+    permission: actionboard.use
+    usage: /actionboard <toggle|bossbar|actionbar|reload|help>

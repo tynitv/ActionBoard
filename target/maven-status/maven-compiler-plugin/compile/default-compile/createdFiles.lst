@@ -1,2 +1,10 @@
-fr\tynitv\actionboard\display\DisplayTask.class
+fr\tynitv\actionboard\actionbar\ActionBarManager$TimedActionBar.class
+fr\tynitv\actionboard\bossbar\BossBarManager.class
+fr\tynitv\actionboard\actionbar\ActionBarManager.class
 fr\tynitv\actionboard\ActionBoard.class
+fr\tynitv\actionboard\commands\ActionBoardTabCompleter.class
+fr\tynitv\actionboard\actionbar\ActionBarManager$1.class
+fr\tynitv\actionboard\commands\ActionBoardCommand.class
+fr\tynitv\actionboard\bossbar\BossBarManager$1.class
+fr\tynitv\actionboard\bossbar\BossBarManager$TimedBossBar.class
+fr\tynitv\actionboard\display\DisplayTask.class

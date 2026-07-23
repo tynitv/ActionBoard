@@ -4,4 +4,14 @@
 
 actionbar:
   enabled: true
+  # Placeholders disponibles : {online}, {max}, {ping}, {player}, {health}, {world}
   text: "<gradient:#00F2FE:#4FACFE><bold>Serveur Paper</bold></gradient> <gray>|</gray> <gray>Joueurs : <green>{online}/{max}</green></gray> <gray>|</gray> <gray>Ping : <yellow>{ping}ms</yellow></gray>"
+
+# Exemple de BossBars actives par défaut au démarrage (optionnel)
+bossbars:
+  welcome_bar:
+    enabled: false
+    title: "<gradient:#FF0033:#FFD700><bold>Bienvenue sur le Serveur !</bold></gradient>"
+    color: "PURPLE"
+    style: "PROGRESS"
+    duration-seconds: 60
